@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![TEST Image](https://oregontech-my.sharepoint.com/personal/justin_boehnen_oit_edu/Documents/Github%20ReadMe%20Images/Asset%201.png)
+![TEST_Image1](https://github.com/JustinBoehnen/JustinBoehnen/blob/master/Images/TestImage.png?raw=true)
+![TEST Image2](https://github.com/JustinBoehnen/JustinBoehnen/blob/master/Images/TestImage.png?raw=true)
+![TEST Image3](https://github.com/JustinBoehnen/JustinBoehnen/blob/master/Images/TestImage.png?raw=true)
