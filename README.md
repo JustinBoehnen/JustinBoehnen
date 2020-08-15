@@ -38,12 +38,12 @@ I'm a passionate developer who loves software and bringing creative ideas to lif
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<br/>
 
-### :zap: Github Stats
-
+<details>
+<summary>:zap: Github Stats</summary>
 <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinBoehnen&show_icons=true&hide_border=true" />
-<img align = "left" alt="Justin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBoehnen&layout=compact&hide_border=true"/>
+<img alt="Justin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBoehnen&layout=compact&hide_border=true"/>
+</details>
 
 [extra1]: https://en.wikipedia.org/wiki/Color_quantization
 [website]: https://justinboehnen.com
