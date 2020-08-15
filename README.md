@@ -43,7 +43,7 @@ I'm a passionate developer who loves software and bringing creative ideas to lif
 <details>
 <summary>:zap: Github Stats</summary>
 <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinBoehnen&show_icons=true&hide_border=true" />
-<img alt="Justin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBoehnen&layout=compact&hide_border=true"/>
+<img align="left" alt="Justin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBoehnen&layout=compact&hide_border=true"/>
 </details>
 
 [extra1]: https://en.wikipedia.org/wiki/Color_quantization
