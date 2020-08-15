@@ -7,17 +7,12 @@ I'm a passionate developer who loves software and bringing creative ideas to lif
 - 🥅 2020 Goals: Start less projects and finish more
 - ⚡ Fun fact: I have no idea what I'm doing 
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="justinboehnen.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="boehnenj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="boehnenj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="justinboehnen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
----
 
 ### Languages and Tools:
 
@@ -42,9 +37,6 @@ I'm a passionate developer who loves software and bringing creative ideas to lif
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/csharp/csharp.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<br />
-<br />
-<br />
 
 ---
 
@@ -53,7 +45,6 @@ I'm a passionate developer who loves software and bringing creative ideas to lif
 
   <img align="left" alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JustinBoehnen&show_icons=true&hide_border=true" />
   <img align = "left" alt="Justin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBoehnen&layout=compact&hide_border=true"/>
-
 </details>
 
 [extra1]: https://en.wikipedia.org/wiki/Color_quantization
