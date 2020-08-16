@@ -2,7 +2,7 @@
 ### I'm a full-stack web developer and software engineer!
 
 I'm a passionate developer who loves software and bringing creative ideas to life!
-- 🔭 I’m currently working on [color quantization][extra1] in js for a paint by number generator
+- 🔭 I’m currently working on [openchess][extra1], a simple REST API.
 - 🌱 I’m currently learning p5.js
 - 🥅 2020 Goals: Start less projects and finish more
 - ⚡ Fun fact: I have no idea what I'm doing 
@@ -46,7 +46,7 @@ I'm a passionate developer who loves software and bringing creative ideas to lif
 <img align="left" alt="Justin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBoehnen&layout=compact&hide_border=true"/>
 </details>
 
-[extra1]: https://en.wikipedia.org/wiki/Color_quantization
+[extra1]: github.com/mengistristen/openchess
 [website]: https://justinboehnen.com
 [twitter]: https://twitter.com/boehnenj
 [instagram]: https://www.instagram.com/boehnenj
