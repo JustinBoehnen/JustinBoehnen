@@ -46,7 +46,7 @@ I'm a passionate developer who loves software and bringing creative ideas to lif
 <img align="left" alt="Justin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinBoehnen&layout=compact&hide_border=true"/>
 </details>
 
-[extra1]: github.com/mengistristen/openchess
+[extra1]: https://github.com/mengistristen/openchess
 [website]: https://justinboehnen.com
 [twitter]: https://twitter.com/boehnenj
 [instagram]: https://www.instagram.com/boehnenj
