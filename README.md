@@ -1,5 +1,5 @@
 ## Hi, I'm [Justin][website] 👋
-### I'm a full-stack web developer and software engineer!
+### I'm a software engineer and full-stack web developer.
 
 I'm a passionate developer who loves software and bringing creative ideas to life!
 - 🔭 I’m currently working on [openchess][extra1], a simple REST API.
