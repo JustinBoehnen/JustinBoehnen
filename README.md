@@ -1,7 +1,7 @@
 ## Hi, I'm [Justin][website] 👋
-### I'm a software engineer and full-stack web developer.
+### A passionate developer who loves software and bringing creative ideas to life!
 
-I'm a passionate developer who loves software and bringing creative ideas to life!
+I'm a software engineer and full-stack web developer.
 - 🔭 I’m currently working on [openchess][extra1], a simple REST API.
 - 🌱 I’m currently learning p5.js
 - 🥅 2020 Goals: Start less projects and finish more
